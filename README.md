@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 Chemistry undergrad at National Central University, Taiwan
 
 🔬 Interested in organic and computational chemistry
+
 💻 Python, C++, and a bit of embedded (STM32)
+
 🌱 Looking for my first open-source contribution
